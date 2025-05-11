@@ -6,8 +6,8 @@
     <groupId>com.visualpathit</groupId>
     <artifactId>java-project</artifactId>
     <packaging>war</packaging>
-    <version>v1</version>
-    <name>Visualpathit java-project Webapp</name>
+    <version>v4</version>
+    <name>12may</name>
     <url>http://maven.apache.org</url>
 
     <properties>
